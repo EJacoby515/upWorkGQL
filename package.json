@@ -1,0 +1,22 @@
+{
+    "name": "upwork-api-project",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "ts-node src/index.ts"
+    },
+    "dependencies": {
+        "@apollo/client": "^3.12.2",
+        "dotenv": "^16.4.7",
+        "graphql": "^16.9.0"
+    },
+    "devDependencies": {
+        "@types/node": "^18.19.67",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.7.2"
+    },
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
